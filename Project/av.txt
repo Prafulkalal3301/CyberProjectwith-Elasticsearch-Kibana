@@ -1,0 +1,7 @@
+
+Definition Status Name             Real-time Protection Status
+----------------- ----             ---------------------------
+Unknown           Windows Defender Unknown                    
+Up to date        Avast Antivirus  Enabled                    
+
+

@@ -1,0 +1,13 @@
+
+Tracing route to google.com [172.217.166.46]
+over a maximum of 30 hops:
+
+  1     1 ms   162 ms     2 ms  192.168.0.1 
+  2     1 ms     1 ms     1 ms  103.50.76.106 
+  3     *        *        *     Request timed out.
+  4     4 ms     3 ms     5 ms  103.27.170.11 
+  5     4 ms     3 ms     3 ms  108.170.248.193 
+  6     6 ms     4 ms     4 ms  108.170.234.209 
+  7     7 ms     3 ms     3 ms  bom07s18-in-f14.1e100.net [172.217.166.46] 
+
+Trace complete.

@@ -1,0 +1,13 @@
+
+Tracing route to google.com [142.250.183.78]
+over a maximum of 30 hops:
+
+  1     4 ms     1 ms     5 ms  192.168.0.1 
+  2     4 ms     2 ms     2 ms  103.50.76.106 
+  3     *        *        *     Request timed out.
+  4     6 ms     2 ms     4 ms  as15169.bom.extreme-ix.net [103.77.108.82] 
+  5  2406 ms     6 ms     4 ms  108.170.248.177 
+  6     6 ms    12 ms     4 ms  142.250.208.221 
+  7   161 ms    11 ms   223 ms  bom12s12-in-f14.1e100.net [142.250.183.78] 
+
+Trace complete.

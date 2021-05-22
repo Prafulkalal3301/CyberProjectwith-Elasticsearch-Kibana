@@ -1,0 +1,270 @@
+
+
+DisplayName : Visual Studio Community 2017
+
+DisplayName : Avast Free Antivirus
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : Google Chrome
+
+DisplayName : 
+
+DisplayName : Microsoft DirectX SDK (February 2010)
+
+DisplayName : Microsoft Edge
+
+DisplayName : Microsoft Edge Update
+
+DisplayName : NVIDIA CodeWorks for Android
+
+DisplayName : OBS Studio
+
+DisplayName : Adobe Premiere Pro 2019
+
+DisplayName : PyCharm Community Edition 2020.3
+
+DisplayName : RStudio
+
+DisplayName : Skype version 8.43
+
+DisplayName : 
+
+DisplayName : TeamViewer
+
+DisplayName : Unity
+
+DisplayName : 
+
+DisplayName : Xoreax IncrediBuild 9.2 (build 2147)
+
+DisplayName : 
+
+DisplayName : Universal CRT Redistributable
+
+DisplayName : Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+
+DisplayName : Windows Runtime Intellisense Content - en-us
+
+DisplayName : UE4 Prerequisites (x64)
+
+DisplayName : Epic Games Launcher
+
+DisplayName : icecap_collectionresourcesx64
+
+DisplayName :  Tools for .Net 3.5
+
+DisplayName : vcpp_crt.redist.clickonce
+
+DisplayName : OpenOffice 4.1.6
+
+DisplayName : Microsoft .NET Framework 4.5.2 Multi-Targeting Pack
+
+DisplayName : vs_tipsmsi
+
+DisplayName : Microsoft Visual Studio 2017 Tools for Unity
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : vs_filehandler_x86
+
+DisplayName : Universal CRT Extension SDK
+
+DisplayName : Microsoft Visual Studio Setup Configuration
+
+DisplayName : Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)
+
+DisplayName : Microsoft .NET Framework 4.6 Targeting Pack
+
+DisplayName : Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.24.28127
+
+DisplayName : Microsoft .NET Framework 4.6.1 SDK
+
+DisplayName : 
+
+DisplayName : Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+
+DisplayName : Windows Software Development Kit for Windows Store Apps
+
+DisplayName : vs_minshellinteropmsi
+
+DisplayName : TypeScript SDK
+
+DisplayName : vs_communitymsires
+
+DisplayName : Launcher Prerequisites (x64)
+
+DisplayName : icecap_collectionresources
+
+DisplayName : Java Auto Updater
+
+DisplayName : Intel Driver && Support Assistant
+
+DisplayName : VS Immersive Activate Helper
+
+DisplayName : Microsoft .NET Framework 4.7.1 Targeting Pack
+
+DisplayName : Microsoft .NET Framework 4.5 Multi-Targeting Pack
+
+DisplayName : vs_SQLClickOnceBootstrappermsi
+
+DisplayName : 
+
+DisplayName : Google Update Helper
+
+DisplayName : Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660
+
+DisplayName : Microsoft System CLR Types for SQL Server vNext CTP1.6
+
+DisplayName : vs_minshellmsi
+
+DisplayName : Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.25.28508
+
+DisplayName : Microsoft .NET Framework 4.5.1 Multi-Targeting Pack
+
+DisplayName : vs_clickoncesigntoolmsi
+
+DisplayName : vs_minshellmsires
+
+DisplayName : Microsoft Visual C++ 2005 Redistributable
+
+DisplayName : vs_communitymsi
+
+DisplayName : HP Software Framework
+
+DisplayName : Microsoft NetStandard SDK
+
+DisplayName : Intelr Driver & Support Assistant
+
+DisplayName : Windows Phone SDK 8.0 Assemblies for Visual Studio 2017
+
+DisplayName : Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660
+
+DisplayName : Minecraft Launcher
+
+DisplayName : Microsoft Portable Library Multi-Targeting Pack
+
+DisplayName : Microsoft .NET Framework 4.6.1 Targeting Pack
+
+DisplayName : Universal CRT Headers Libraries and Sources
+
+DisplayName : Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (ENU)
+
+DisplayName : vs_clickoncebootstrappermsires
+
+DisplayName : Windows Software Development Kit
+
+DisplayName : Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17
+
+DisplayName : Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+
+DisplayName : vs_filehandler_amd64
+
+DisplayName : icecap_collection_neutral
+
+DisplayName : Microsoft ASP.NET Diagnostic Pack for Visual Studio
+
+DisplayName : vs_FileTracker_Singleton
+
+DisplayName : vs_clickoncebootstrappermsi
+
+DisplayName : NVIDIA PhysX v8.09.04
+
+DisplayName : Microsoft TestPlatform SDK Local Feed
+
+DisplayName : Microsoft Visual C++ 2017 X86 Debug Runtime - 14.16.27024
+
+DisplayName : IntelliTraceProfilerProxy
+
+DisplayName : Universal CRT Tools x86
+
+DisplayName : Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+
+DisplayName : Microsoft ASP.NET Web Tools Packages 15.0 - ENU
+
+DisplayName : Microsoft Windows Communication Foundation Diagnostic Pack for x86
+
+DisplayName : Entity Framework 6.2.0 Tools  for Visual Studio 2017
+
+DisplayName : Microsoft Portable Library Multi-Targeting Pack Language Pack - enu
+
+DisplayName : Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+
+DisplayName : vs_devenvmsi
+
+DisplayName : ProtonVPNTap
+
+DisplayName : vs_BlendMsi
+
+DisplayName : Launcher Prerequisites (x64)
+
+DisplayName : Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+
+DisplayName : Microsoft .NET Core SDK 2.1.503 (x64)
+
+DisplayName : Microsoft .NET Framework 4 Multi-Targeting Pack
+
+DisplayName : Update for  (KB2504637)
+
+DisplayName : ClickOnce Bootstrapper Package for Microsoft .NET Framework
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660
+
+DisplayName : Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.24.28127
+
+DisplayName : HP PC Hardware Diagnostics Windows
+
+DisplayName : Microsoft Visual C++ 2019 X86 Additional Runtime - 14.24.28127
+
+DisplayName : Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40660
+
+DisplayName : Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : 
+
+DisplayName : Intel(R) Processor Graphics
+
+DisplayName : Realtek High Definition Audio Driver
+
+DisplayName : Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+
+DisplayName : Intel(R) C++ Redistributables on Intel(R) 64
+
+DisplayName : Python Launcher
+
+
+

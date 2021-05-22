@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>2topic</title>
+    <style>
+        body{
+        background-color:#2B2F2A;
+
+        }
+        h2
+        {
+        color:#D4FE0C;
+        }
+        h3{
+        color:#FFFFFF;
+        }
+    </style>
+</head>
+<body>
+<h2>Host Status:</h2>
+<h3>
+    {{ hoststatus }}
+    <br>
+
+</h3>
+<br>
+<h2>Antivirus status</h2>
+<h3><ul style="list-style: none">
+    {% for line in Av %}
+    <li>{{ line|safe }}</li>
+    {% endfor %}
+</ul>
+</h3>
+<h2>Packages found in machine:</h2>
+<h3>
+    {% for names in pack %}
+        <li>{{ names|safe }}</li>
+    {% endfor %}
+</h3>
+<br>
+<h2>Hostname and host IP</h2>
+<h3>{{ hname }}:{{ hoip }}</h3>
+
+
+
+</body>
+</html>
